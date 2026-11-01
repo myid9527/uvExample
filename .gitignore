@@ -11,3 +11,9 @@ wheels/
 
 # Local uv cache
 .uv-cache/
+
+# Local SQLite databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
